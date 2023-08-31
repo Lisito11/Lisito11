@@ -45,21 +45,11 @@
 <br/>
 
 ### 📫 Feel free to connect with me here:
-<br/>
-<a href="https://www.instagram.com/lisannypg/">
-  <img align="left" alt="Lisanny's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
 
-<a href="https://twitter.com/lisannypg">
-  <img align="left" alt="Lisanny Peña | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/lisannypg/">
-  <img align="left" alt="Lisanny's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<br/>
 
 [![Gmail Badge](https://img.shields.io/badge/-l.andrespg11@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:l.andrespg11@gmail.com)](mailto:l.andrespg11@gmail.com)
 
-<br/>
 <br/>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Lisito11.Lisito11)
